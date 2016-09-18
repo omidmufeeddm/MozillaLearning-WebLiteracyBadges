@@ -1,4 +1,4 @@
-# MozillaLearning-WebLiteracyBadges
+# Mozilla Learning - Web Literacy Badges
 
 Start teaching others how to read, write and participate on the web with these free activities created by teachers, educators and technologists like you. Each featured activity includes step-by-step instructions and has been tested in schools, after school programs, libraries and community centres around the globe. Whether learning how to code, understanding why privacy matters, or creating openly-licensed web content, we believe teaching the web should be fun and engaging!
 
