@@ -37,6 +37,6 @@ Answer the following questions:
 * Can you think of times when you might want a more broken or seemingly disorganized layout?
 * How did styling from the CSS stylesheet interact with the HTML elements on the webpage? What's the connection there? What seemed easiest or most difficult about today's work? Why?
 
-**21C Skills: **
+**21C Skills:**
 
 * [Problem-Solving] (https://learning.mozilla.org/en-US/web-literacy/skills/#problem-solving)
