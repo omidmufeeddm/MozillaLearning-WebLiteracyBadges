@@ -7,7 +7,7 @@ Start teaching others how to read, write and participate on the web with these f
 **DigitalMe** have been working alongside the Mozilla Learning team to explore, build and provide open access to a suite of Web Literacy Badges for use within both formal and non-formal educational settings. 
 
 You can see a fully implemented version of these badges on both:
-* [Open Badge Academy] (www.openbadgeacademy.com/mozillalearning "Mozilla Learning Badges on OBA")
+* [Open Badge Academy] (https://www.openbadgeacademy.com/mozillalearning "Mozilla Learning Badges on OBA")
 * [Credly]
 
 As well as requested access to the badges via these methods, you can also fork this repository and create your own instances of the badges on whichever platform you choose. Within this repository we have provided the following media to the be used for non-commerical purposes which must always reference back to **Mozilla Learning** and **DigitalMe**
