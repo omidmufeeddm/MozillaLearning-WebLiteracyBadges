@@ -1,20 +1,20 @@
 # Summary of the Web Literacy Badges
 
 ## Web Literacy Strands
-* [Search] (https://github.com/mattdigitalme/MozillaLearning-WebLiteracyBadges/blob/master/Badge%20Content%20/Search.md)
-* [Navigate] (https://github.com/mattdigitalme/MozillaLearning-WebLiteracyBadges/blob/master/Badge%20Content%20/Navigate.md)
-* [Synthesise] (https://github.com/mattdigitalme/MozillaLearning-WebLiteracyBadges/blob/master/Badge%20Content%20/Synthesize.md)
-* Evaluate
-* Design
-* Code
-* Compose
-* Revise
-* Remix
-* Connect
-* Protect
-* Open Practice
-* Contribute
-* Share
+* [Search] (https://github.com/digitalmecode/MozillaLearning-WebLiteracyBadges/blob/master/Badge%20Content%20/Search.md)
+* [Navigate] (https://github.com/digitalmecode/MozillaLearning-WebLiteracyBadges/blob/master/Badge%20Content%20/Navigate.md)
+* [Synthesise] (https://github.com/digitalmecode/MozillaLearning-WebLiteracyBadges/blob/master/Badge%20Content%20/Synthesize.md)
+* [Evaluate] (https://github.com/digitalmecode/MozillaLearning-WebLiteracyBadges/blob/master/Badge%20Content%20/Evaluate.md) 
+* [Design] (https://github.com/digitalmecode/MozillaLearning-WebLiteracyBadges/blob/master/Badge%20Content%20/Design.md)
+* [Code] (https://github.com/digitalmecode/MozillaLearning-WebLiteracyBadges/blob/master/Badge%20Content%20/Code.md)
+* [Compose] (https://github.com/digitalmecode/MozillaLearning-WebLiteracyBadges/blob/master/Badge%20Content%20/Compose.md)
+* [Revise] (https://github.com/digitalmecode/MozillaLearning-WebLiteracyBadges/blob/master/Badge%20Content%20/Revise.md)
+* [Remix] (https://github.com/digitalmecode/MozillaLearning-WebLiteracyBadges/blob/master/Badge%20Content%20/Remix.md)
+* [Connect] (https://github.com/digitalmecode/MozillaLearning-WebLiteracyBadges/blob/master/Badge%20Content%20/Connect.md)
+* [Protect] (https://github.com/digitalmecode/MozillaLearning-WebLiteracyBadges/blob/master/Badge%20Content%20/Protect.md)
+* [Open Practice] (https://github.com/digitalmecode/MozillaLearning-WebLiteracyBadges/blob/master/Badge%20Content%20/Open Practice.md)
+* [Contribute] (https://github.com/digitalmecode/MozillaLearning-WebLiteracyBadges/blob/master/Badge%20Content%20/Contribute.md)
+* [Share] (https://github.com/digitalmecode/MozillaLearning-WebLiteracyBadges/blob/master/Badge%20Content%20/Share.md)
 
 ## Badge Content files
 
