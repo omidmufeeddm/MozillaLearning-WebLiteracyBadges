@@ -8,8 +8,8 @@ Use the Internet to solve the mystery of The Kraken, a legendary sea creature, w
 **Task**
 
 * Start by **spending 20 minutes researching**. Using the guidelines from the Tip Sheet, you need to evaluate 2 internet sources, documenting your findings on the [Legit-o-Meter] (https://laura.makes.org/thimble/Mjg1NjA2NDAw/kraken-the-code-legit-o-meter)
-After you have conducted your research, you will have decided if you think the Kraken is: **”Real," "Imaginary," or "Something in between”.**
-You will need to reflect on the information you have found, and put forward your argument, based upon your research as to why you took a particular stand point.
+* After you have conducted your research, you will have decided if you think the Kraken is: **”Real," "Imaginary," or "Something in between”.**
+* You will need to reflect on the information you have found, and put forward your argument, based upon your research as to why you took a particular stand point.
 
 **Evidence:**
 
