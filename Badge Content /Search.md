@@ -74,7 +74,7 @@ You will use HTML, CSS, and JavaScript to tell a simple story using **three sequ
 
 Share a link to your remixed **Sequential Story Images** or take a screenshot of your creation!
 
-** 21C Skills:** 
+**21C Skills:** 
 
 * [Communication] (https://learning.mozilla.org/en-US/web-literacy/skills/#communication)
 * [Creativity] (https://learning.mozilla.org/en-US/web-literacy/skills/#creativity)
