@@ -2,8 +2,8 @@
 
 ## Web Literacy Strands
 * [Search] (https://github.com/mattdigitalme/MozillaLearning-WebLiteracyBadges/blob/master/Badge%20Content%20/Search.md)
-* Navigate
-* Synthesise
+* [Navigate] (https://github.com/mattdigitalme/MozillaLearning-WebLiteracyBadges/blob/master/Badge%20Content%20/Navigate.md)
+* [Synthesise] (https://github.com/mattdigitalme/MozillaLearning-WebLiteracyBadges/blob/master/Badge%20Content%20/Synthesize.md)
 * Evaluate
 * Design
 * Code
