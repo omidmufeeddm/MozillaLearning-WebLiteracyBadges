@@ -1,7 +1,7 @@
 # Summary of the Web Literacy Badges
 
 ## Web Literacy Strands
-* Search
+* [Search] (MozillaLearning-WebLiteracyBadges/Badge Content /Search.md)
 * Navigate
 * Synthesise
 * Evaluate
