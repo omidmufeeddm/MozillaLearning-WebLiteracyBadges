@@ -18,7 +18,7 @@ Create a 30 second video, putting forward your argument as to the legitimacy of 
 
 **21C Skills:** 
 
-[Problem-Solving] (https://learning.mozilla.org/en-US/web-literacy/skills/#problem-solving)
+* [Problem-Solving] (https://learning.mozilla.org/en-US/web-literacy/skills/#problem-solving)
 
 ## Task 2 IP Tracer
 
@@ -40,16 +40,16 @@ Answer the following questions:
 
 **21C Skills:**
 
-[Problem-Solving] (https://learning.mozilla.org/en-US/web-literacy/skills/#problem-solving)
+* [Problem-Solving] (https://learning.mozilla.org/en-US/web-literacy/skills/#problem-solving)
 
 ## Task 3 CSS Fonts
 
 You will use webfonts to create moods and tones on webpages, learning about **coding, composing, designing, and remixing.**
 
 **Task**
-Click the [“Remix”] (https://d157rqmxrxj6ey.cloudfront.net/chadsansing/20997/) button. This will open Thimble. You'll see a range of custom fonts we used to get you started.
-Follow the steps in the tutorial. The tutorial will walk you through how to make changes to the code.
-Done! Once you're finished, you can save your work and share it. Log in and hit "Publish".
+* Click the [“Remix”] (https://d157rqmxrxj6ey.cloudfront.net/chadsansing/20997/) button. This will open Thimble. You'll see a range of custom fonts we used to get you started.
+* Follow the steps in the tutorial. The tutorial will walk you through how to make changes to the code.
+* Done! Once you're finished, you can save your work and share it. Log in and hit "Publish".
 
 **Evidence**
 
@@ -57,9 +57,9 @@ Share a link to your remixed **Webfonts webpage** or take a screenshot of your c
 
 **21C Skills:**
 
-[Communication] (https://learning.mozilla.org/en-US/web-literacy/skills/#communication)
-[Problem-Solving] (https://learning.mozilla.org/en-US/web-literacy/skills/#problem-solving)
-[Creativity] (https://learning.mozilla.org/en-US/web-literacy/skills/#creativity)
+* [Communication] (https://learning.mozilla.org/en-US/web-literacy/skills/#communication)
+* [Problem-Solving] (https://learning.mozilla.org/en-US/web-literacy/skills/#problem-solving)
+* [Creativity] (https://learning.mozilla.org/en-US/web-literacy/skills/#creativity)
 
 ## Task 4 Storytelling with Pictures
 
@@ -76,17 +76,17 @@ Share a link to your remixed **Sequential Story Images** or take a screenshot of
 
 ** 21C Skills:** 
 
-[Communication] (https://learning.mozilla.org/en-US/web-literacy/skills/#communication)
-[Creativity] (https://learning.mozilla.org/en-US/web-literacy/skills/#creativity)
+* [Communication] (https://learning.mozilla.org/en-US/web-literacy/skills/#communication)
+* [Creativity] (https://learning.mozilla.org/en-US/web-literacy/skills/#creativity)
 
 ## Task 5 Project Playlist
 
 You will build a playlist of songs from the Open Web, learning **composing, remixing, searching, and sharing.**
 
 **Task**
-Click the [“Remix”] (https://d157rqmxrxj6ey.cloudfront.net/chadsansing/9011/) button. This will open Thimble. You'll see a playlist we created to get you started.
-Follow the steps in the tutorial. The tutorial will walk you through how to make changes to the code.
-Done! Once you're finished, you can save your work and share it. Log in and hit "Publish".
+* Click the [“Remix”] (https://d157rqmxrxj6ey.cloudfront.net/chadsansing/9011/) button. This will open Thimble. You'll see a playlist we created to get you started.
+* Follow the steps in the tutorial. The tutorial will walk you through how to make changes to the code.
+* Done! Once you're finished, you can save your work and share it. Log in and hit "Publish".
 
 **Evidence**
 
@@ -94,6 +94,6 @@ Share a link to your new **playlist** or take a screenshot of your creation!
 
 **21C Skills:** 
 
-[Creativity] (https://learning.mozilla.org/en-US/web-literacy/skills/#creativity)
+* [Creativity] (https://learning.mozilla.org/en-US/web-literacy/skills/#creativity)
 
 
