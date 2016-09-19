@@ -3,6 +3,7 @@
 A framework for entry-level web literacy & 21st Century skills. Read - Search: Using questions and keywords to find the information you need.
 
 Task 1 Kraken the Code
+
 Use the Internet to solve the mystery of The Kraken, a legendary sea creature, while also learning about **search terms, keywords, and how to assess the validity and relevance of web sources.**
 
 **Task**
@@ -20,6 +21,7 @@ Create a 30 second video, putting forward your argument as to the legitimacy of 
 [Problem-Solving] (https://learning.mozilla.org/en-US/web-literacy/skills/#problem-solving)
 
 Task 2 IP Tracer
+
 Explore internet protocol (IP) addresses and learn how it may be associated with yourself, a device, or a website. **You will trace IP addresses and make a map.**
 
 **Task:**
@@ -41,6 +43,7 @@ Answer the following questions:
 [Problem-Solving] (https://learning.mozilla.org/en-US/web-literacy/skills/#problem-solving)
 
 Task 3 CSS Fonts
+
 You will use webfonts to create moods and tones on webpages, learning about **coding, composing, designing, and remixing.**
 
 **Task**
@@ -59,6 +62,7 @@ Share a link to your remixed **Webfonts webpage** or take a screenshot of your c
 [Creativity] ((https://learning.mozilla.org/en-US/web-literacy/skills/#creativity)
 
 Task 4 Storytelling with Pictures
+
 You will use HTML, CSS, and JavaScript to tell a simple story using **three sequential pictures.**
 
 **Task**
@@ -76,6 +80,7 @@ Share a link to your remixed **Sequential Story Images** or take a screenshot of
 [Creativity] ((https://learning.mozilla.org/en-US/web-literacy/skills/#creativity)
 
 Task 5 Project Playlist
+
 You will build a playlist of songs from the Open Web, learning **composing, remixing, searching, and sharing.**
 
 **Task**
