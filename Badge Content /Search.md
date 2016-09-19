@@ -58,9 +58,7 @@ Share a link to your remixed **Webfonts webpage** or take a screenshot of your c
 **21C Skills:**
 
 [Communication] (https://learning.mozilla.org/en-US/web-literacy/skills/#communication)
-
 [Problem-Solving] (https://learning.mozilla.org/en-US/web-literacy/skills/#problem-solving)
-
 [Creativity] (https://learning.mozilla.org/en-US/web-literacy/skills/#creativity)
 
 Task 4 Storytelling with Pictures
@@ -79,7 +77,6 @@ Share a link to your remixed **Sequential Story Images** or take a screenshot of
 ** 21C Skills:** 
 
 [Communication] (https://learning.mozilla.org/en-US/web-literacy/skills/#communication)
-
 [Creativity] (https://learning.mozilla.org/en-US/web-literacy/skills/#creativity)
 
 Task 5 Project Playlist
