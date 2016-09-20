@@ -1,4 +1,4 @@
-![OBA + Mozilla + GitHub = Awesome!](blob/master/collection_github.png)
+![OBA + Mozilla + GitHub = Awesome!](/master/collection_github.png)
 
 # Mozilla Learning - Web Literacy Badges
 
