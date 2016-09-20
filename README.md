@@ -14,6 +14,4 @@ As well as requested access to the badges via these methods, you can also fork t
 
 [<img src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png">](https://creativecommons.org/licenses/by-nc-sa/4.0/ "Creative Commons CC-BY-NC-SA")
 
-[CC-BY-NC-SA: Attribution Noncommercial Share Alike] (https://creativecommons.org/licenses/by-nc-sa/4.0/ "Creative Commons CC-BY-NC-SA")
-
 For further information and support please contact matt.rogers@digitalme.co.uk
