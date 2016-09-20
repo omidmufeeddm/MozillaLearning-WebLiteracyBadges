@@ -1,3 +1,4 @@
+[<img src="https://github.com/digitalmecode/MozillaLearning-WebLiteracyBadges/raw/master/collection_github.png">](https://www.openbadgeacademy.com/mozillalearning/)
 ![OBA + Mozilla + GitHub = Awesome!](collection_github.png)
 
 # Mozilla Learning - Web Literacy Badges
