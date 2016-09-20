@@ -1,4 +1,4 @@
-![OBA + Mozilla + GitHub = Awesome!](MozillaLearning-WebLiteracyBadges/collection_github.png)
+![OBA + Mozilla + GitHub = Awesome!](digitalmecode/MozillaLearning-WebLiteracyBadges/collection_github.png)
 
 # Mozilla Learning - Web Literacy Badges
 
