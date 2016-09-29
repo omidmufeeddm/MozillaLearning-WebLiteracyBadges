@@ -22,7 +22,7 @@ Create a 30 second video, putting forward your argument as to the legitimacy of 
 
 ##Task 2 IP Tracer
 
-Explore internet protocol (IP) addresses and learn how it may be associated with yourself, a device, or a website. **You will trace IP addresses and make a map.**
+Explore internet protocol (IP) addresses and learn how it may be associated with yourself, a device, or a website. **You will trace IP addresses and make a map,** learning about **searching.**
 
 **Task:**
 
@@ -44,7 +44,7 @@ Answer the following questions:
 
 ##Task 3 CSS Fonts
 
-You will use webfonts to create moods and tones on webpages, learning about **coding, composing, designing, and remixing.**
+You will use webfonts to create moods and tones on webpages, learning about **searching, coding, composing, designing, and remixing.**
 
 **Task**
 * Click the [“Remix”] (https://d157rqmxrxj6ey.cloudfront.net/chadsansing/20997/) button. This will open Thimble. You'll see a range of custom fonts we used to get you started.
@@ -63,7 +63,7 @@ Share a link to your remixed **Webfonts webpage** or take a screenshot of your c
 
 ##Task 4 Project Playlist
 
-You will build a playlist of songs from the Open Web, learning **composing, remixing, searching, and sharing.**
+You will build a playlist of songs from the Open Web, learning **searching, composing, remixing, searching, and sharing.**
 
 **Task**
 * Click the [“Remix”] (https://d157rqmxrxj6ey.cloudfront.net/chadsansing/9011/) button. This will open Thimble. You'll see a playlist we created to get you started.
