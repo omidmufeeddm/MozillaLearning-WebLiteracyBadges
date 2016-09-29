@@ -37,7 +37,7 @@ Share a link to your remixed *Fair Use Free For All game* or take a screenshot o
 * [Problem-Solving] (https://learning.mozilla.org/en-US/web-literacy/skills/#problem-solving)
 
 ## Task 3 Ping Kong
-For many, "the Internet" is an abstract and overwhelming concept. This activity will challenge you to think concretely about how the internet communicates with a computer.
+For many, "the Internet" is an abstract and overwhelming concept. This activity will challenge you to think concretely about how the internet communicates with a computer, learning about **navigating.**
 
 **Task**
 
