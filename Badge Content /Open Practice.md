@@ -3,7 +3,7 @@
 A framework for entry-level web literacy & 21st Century skills. Participate - Open Practice: Using and contributing web resources to keep the web transparent and universally accessible to all.
 
 ##Task 1 Web Chef
-You will race to sequence the paper boxes labeled with HTML tags, **becoming familiar with the most common HTML tags and how to structure a web page,** learning about **sharing**
+You will race to sequence the paper boxes labeled with HTML tags, **becoming familiar with the most common HTML tags and how to structure a web page,** learning about **working open.**
 
 **Task**
 
@@ -29,9 +29,27 @@ You will create and research survey questions about their community's Web use, l
 * Follow the steps in the tutorial. The tutorial will walk you through how to make changes to the code.
 * Done! Once you're finished, you can save your work and share it. Log in and hit "Publish".
 
-Evidence
+**Evidence**
 
-Share a **link** to you research project or take a **screenshot** of your creation!
+Share a **link** to your research project or take a **screenshot** of your creation!
+
+**21C Skills:**
+
+* [Communication] (https://learning.mozilla.org/en-US/web-literacy/skills/#communication)
+* [Problem-Solving] (https://learning.mozilla.org/en-US/web-literacy/skills/#problem-solving)
+* [Collaboration] (https://learning.mozilla.org/en-US/web-literacy/skills/#collaboration)
+
+##Task 3 #allthestickerz
+You will create pixel art stickers, publish them for others, and use them to annotate and remix the Web, learning **composing, designing, evaluating, working open, remixing, sharing, and synthesizing.**
+
+**Task**
+* Click the ["Remix"] (https://d157rqmxrxj6ey.cloudfront.net/chadsansing/7048/) button. This will open Thimble. You'll see some web stickers we have created to get you started.
+* Follow the steps in the tutorial. The tutorial will walk you through how to make changes to the code.
+* Done! Once you're finished, you can save your work and share it. Log in and hit "Publish".
+
+**Evidence**
+
+Share a **link** to your new web stickers and where you have used them on the web or take a **screenshot** of your creation!
 
 **21C Skills:**
 
