@@ -17,8 +17,8 @@ Share a link to your remixed **Input Sheet** or take a screenshot of your creati
 **21C Skills:**
 
 * [Communication] (https://learning.mozilla.org/en-US/web-literacy/skills/#communication)
-* [Problem-Solving] https://learning.mozilla.org/en-US/web-literacy/skills/#problem-solving)
-* [Creativity] https://learning.mozilla.org/en-US/web-literacy/skills/#creativity)
+* [Problem-Solving] (https://learning.mozilla.org/en-US/web-literacy/skills/#problem-solving)
+* [Creativity] (https://learning.mozilla.org/en-US/web-literacy/skills/#creativity)
 
 ##Task 2 Hack the News
 You will be using X-Ray Goggles to remix a news website, learning about **openly-licensed resources, different forms of media, and how to create something new on the Web through remix,** learning about **connecting.**
