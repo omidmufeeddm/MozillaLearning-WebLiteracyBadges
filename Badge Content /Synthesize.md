@@ -37,3 +37,20 @@ Share a link to your remixed **Interactive story** or take a screenshot of your 
 * [Communication] (https://learning.mozilla.org/en-US/web-literacy/skills/#communication)
 * [Creativity] (https://learning.mozilla.org/en-US/web-literacy/skills/#creativity)
 
+##Task 3 #allthestickerz
+You will create pixel art stickers, publish them for others, and use them to annotate and remix the Web, learning **composing, designing, evaluating, working open, remixing, sharing, and synthesizing.**
+
+**Task**
+* Click the ["Remix"] (https://d157rqmxrxj6ey.cloudfront.net/chadsansing/7048/) button. This will open Thimble. You'll see some web stickers we have created to get you started.
+* Follow the steps in the tutorial. The tutorial will walk you through how to make changes to the code.
+* Done! Once you're finished, you can save your work and share it. Log in and hit "Publish".
+
+**Evidence**
+
+Share a **link** to your new web stickers and where you have used them on the web or take a **screenshot** of your creation!
+
+**21C Skills:**
+
+* [Communication] (https://learning.mozilla.org/en-US/web-literacy/skills/#communication)
+* [Problem-Solving] (https://learning.mozilla.org/en-US/web-literacy/skills/#problem-solving)
+* [Collaboration] (https://learning.mozilla.org/en-US/web-literacy/skills/#collaboration)
