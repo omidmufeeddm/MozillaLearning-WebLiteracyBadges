@@ -3,7 +3,7 @@
 A framework for entry-level web literacy & 21st Century skills. Participate - Connect: Extending thinking beyond the individual learner to integrate social networks and tools in problem-solving.
 
 ##Task 1 Hack the News
-You will be using X-Ray Goggles to remix a news website, learning about **openly-licensed resources, different forms of media, and how to create something new on the Web through remix.**
+You will be using X-Ray Goggles to remix a news website, learning about **openly-licensed resources, different forms of media, and how to create something new on the Web through remix,** learning about **connecting.**
 
 **Task**
 
@@ -21,21 +21,21 @@ Share a link to your remixed **News Article** challenge or take a screenshot of 
 * [Problem-Solving] (https://learning.mozilla.org/en-US/web-literacy/skills/#Problem-solving)
 * [Communication] (https://learning.mozilla.org/en-US/web-literacy/skills/#communication)
 
-##Task 2 Really Private Messaging
-You will learn the basic importance and mechanics of encryption, modelling public-private key encryption schemes with simple tools like paper and markers, crayons, or coloured pencils, thereby learning how to **collaborate, connect, evaluate encryption schemes, and secure their communications online.**
+##Task 2 Story of Us
+You will learn how to tell your Story of Self, use it to reflect on what you have learned, the role of learning socially, and how you want to learn and **participate on the web** and with your community going forward, **using and sharing files in open** in web-friendly formats when appropriate,** learning about **connecting.**
 
 **Task**
-* Try your own Caesar Cipher using this [pen from MattC.K] (http://codepen.io/MattCK/pen/OyQyxE)
-* Watch this [awesome video] (https://www.youtube.com/watch?v=3QnD2c4Xovk&feature=youtu.be) on Public & Private Keys
-* Create your own Colour Key - find out more [here] (http://chadsansing.github.io/curriculum-testing/encryption/really-private-messaging.html#step-4)
 
-Evidence
+* Understand and Tell your **Story of Self** - this has three key parts; Me. Us. Now.
+* Record and reflect upon your story. You could do this through an audio recording, a Vlog or perhaps even an animation.
+* Reflect upon your story and conclude with a decision on **where you want to go from here.**
 
-In general terms and in your **own words**, can you summarise how public-private key encryption works?
+**Evidence:**
 
-**21C Skills:**
+Share your **Story of Self** and write a reflection on the process and your decision moving forward.
 
-* [Creativity] (https://learning.mozilla.org/en-US/web-literacy/skills/#creativity)
-* [Problem-Solving] (https://learning.mozilla.org/en-US/web-literacy/skills/#Problem-solving)
+**21C Skills: **
+
 * [Communication] (https://learning.mozilla.org/en-US/web-literacy/skills/#communication)
-* [Collaboration] (https://learning.mozilla.org/en-US/web-literacy/skills/#Collaboration)
+* [Collaboration] (https://learning.mozilla.org/en-US/web-literacy/skills/#collaboration)
+* [Creativity] (https://learning.mozilla.org/en-US/web-literacy/skills/#creativity)
