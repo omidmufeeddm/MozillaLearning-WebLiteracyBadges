@@ -1,9 +1,9 @@
 #Compose
 
-A framework for entry-level web literacy & 21st Century skills. Write - Compose: Building, organising, and sharing digital content that is accessible and approachable.
+A framework for entry-level web literacy & 21st Century skills. Write - Compose: Building, organizing, and sharing digital content that is accessible and approachable.
 
 ## Task 1 Storytelling with User Input
-You will learn how to use **HTML, CSS, and JavaScript** to turn user input into a brand new story on a webpage.
+You will learn how to use **HTML, CSS, and JavaScript** to turn user input into a brand new story on a webpage, learning about **composing.**
 
 **Task**
 * Click the ["Remix"] (https://thimbleprojects.org/chadsansing/50670/) button. This will open Thimble. You'll see template form that has been created to get you started..
@@ -21,7 +21,7 @@ Share a link to your remixed **Input Sheet** or take a screenshot of your creati
 * [Creativity] (https://learning.mozilla.org/en-US/web-literacy/skills/#creativity)
 
 ##Task 2 Hack the News
-You will be using X-Ray Goggles to remix a news website, learning about **openly-licensed resources, different forms of media, and how to create something new on the Web through remix,** learning about **connecting.**
+You will be using X-Ray Goggles to remix a news website, learning about **openly-licensed resources, different forms of media, and how to create something new on the Web through remix,** learning about **composing.**
 
 **Task**
 
