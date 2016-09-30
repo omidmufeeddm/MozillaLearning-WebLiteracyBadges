@@ -34,5 +34,20 @@ Share a link to your remixed **Style sheet** or take a screenshot of your creati
 
 * [Problem-Solving] (https://learning.mozilla.org/en-US/web-literacy/skills/#problem-solving)
 
+## Task 3 CSS Circles
+You will search for webfonts to include in a webpage, matching the mood, purpose, tone and voice of the page while learning about **coding, composing, and designing.**
+
+**Task**
+* Click the ["Remix"] (https://d157rqmxrxj6ey.cloudfront.net/chadsansing/16686/) button. This will open Thimble. You'll see some CSS that has been used to edit and create effects across a webpage.
+* Follow the steps in the tutorial. The tutorial will walk you through how to make changes to the code.
+* Done! Once you're finished, you can save your work and share it. Log in and hit "Publish".
+
+**Evidence**
+
+Share a link to your remixed **Style Sheet** or take a screenshot of your creation!
+
+**21C Skills:**
+
+ [Problem-Solving] https://learning.mozilla.org/en-US/web-literacy/skills/#problem-solving)
 
 
