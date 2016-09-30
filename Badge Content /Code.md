@@ -3,7 +3,7 @@
 A framework for entry-level web literacy & 21st Century skills. Write - Code: Understanding basic principles, purpose, and applications of coding and programming languages.
 
 ## Task 1 HTML Puzzle Cubes
-You will race to sequence the paper boxes labeled with HTML tags, **becoming familiar with the most common HTML tags and how to structure a web page.**
+You will race to sequence the paper boxes labeled with HTML tags, **becoming familiar with the most common HTML tags and how to structure a web page,** learning about **coding.**
 
 **Task**
 
@@ -19,18 +19,36 @@ Take a **photo** of your HTML Puzzle Blocks in the correct sequence, or even bet
 
 * [Creativity] (https://learning.mozilla.org/en-US/web-literacy/skills/#creativty)
 
-## Task 2 Webotron and the Scrambled Divs
-You will apply apply text- and box-effect CSS styling techniques to inline and block elements on an HTML webpage, learning about **coding, composing, designing, evaluating, and synthesising.**
+##Task 2 Storytelling with Color
+You will learn how **HTML, CSS, and JavaScript** connect to one another by usingbuttons and scripts to inspire storytelling in response to different colors, learning about **coding.**
 
 **Task**
-* Click the ["Remix"] (https://d157rqmxrxj6ey.cloudfront.net/chadsansing/17148/) button. This will open Thimble. You'll see div elements used to customise a webpage.
+* Click the ["Remix"] (https://thimbleprojects.org/chadsansing/50671/) button. This will open Thimble. You'll see some CSS that has been used to edit and create effects across a webpage.
 * Follow the steps in the tutorial. The tutorial will walk you through how to make changes to the code.
 * Done! Once you're finished, you can save your work and share it. Log in and hit "Publish".
 
 **Evidence**
 
-Share a link to your remixed **Webotron** or take a screenshot of your creation!
+Share a link to your remixed **Style Sheet** and share some photos of your creation!
 
 **21C Skills:**
 
-* [Problem-Solving] (https://learning.mozilla.org/en-US/web-literacy/skills/#problem-solving)
+* [Communication] (https://learning.mozilla.org/en-US/web-literacy/skills/#communication)
+* [Creativity] (https://learning.mozilla.org/en-US/web-literacy/skills/#creativty)
+
+## Task 3 Storytelling with Interactive Fiction
+You will learn how HTML, CSS, and JavaScript connect to one another by creating an interactive story that responds to user input, learning about **coding.**
+
+**Task**
+* Click the ["Remix"] (https://thimbleprojects.org/chadsansing/50676/&amp;quot;) button. This will open Thimble. You'll see a simple story to get you started.
+* Follow the steps in the tutorial. The tutorial will walk you through how to make changes to the code.
+* Done! Once you're finished, you can save your work and share it. Log in and hit "Publish".
+
+**Evidence**
+
+Share a link to your remixed **Interactive story** or take a screenshot of your creation!
+
+**21C Skills:** 
+
+* [Communication] (https://learning.mozilla.org/en-US/web-literacy/skills/#communication)
+* [Creativity] (https://learning.mozilla.org/en-US/web-literacy/skills/#creativity)
