@@ -18,6 +18,7 @@
 
 ## Web Literacy Strands (.json files)
 * [Search] (https://github.com/digitalmecode/MozillaLearning-WebLiteracyBadges/blob/master/Badge%20Content%20/Search/Search.json)
+
 ## Badge Content files
 
 All of the badges within this collection have their own unique badge image, you own organisational or educational logo can be added to the badges themselves, this **must** be added into the bottom righthand corner - see examples of this [here.] (http://www.openbadgeacademy.com/mozillalearning) 
