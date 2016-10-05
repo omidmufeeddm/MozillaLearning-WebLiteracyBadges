@@ -1,7 +1,7 @@
 # Summary of the Web Literacy Badges
 
-## Web Literacy Strands
-* [Search.md] (https://github.com/digitalmecode/MozillaLearning-WebLiteracyBadges/blob/master/Badge%20Content%20/Search/Search.md) [Search.json] (https://github.com/digitalmecode/MozillaLearning-WebLiteracyBadges/blob/master/Badge%20Content%20/Search/Search.json)
+## Web Literacy Strands (.md files)
+* [Search] (https://github.com/digitalmecode/MozillaLearning-WebLiteracyBadges/blob/master/Badge%20Content%20/Search/Search.md) 
 * [Navigate] (https://github.com/digitalmecode/MozillaLearning-WebLiteracyBadges/blob/master/Badge%20Content%20/Navigate.md)
 * [Synthesise] (https://github.com/digitalmecode/MozillaLearning-WebLiteracyBadges/blob/master/Badge%20Content%20/Synthesize.md)
 * [Evaluate] (https://github.com/digitalmecode/MozillaLearning-WebLiteracyBadges/blob/master/Badge%20Content%20/Evaluate.md) 
@@ -16,6 +16,8 @@
 * [Contribute] (https://github.com/digitalmecode/MozillaLearning-WebLiteracyBadges/blob/master/Badge%20Content%20/Contribute.md)
 * [Share] (https://github.com/digitalmecode/MozillaLearning-WebLiteracyBadges/blob/master/Badge%20Content%20/Share.md)
 
+## Web Literacy Strands (.json files)
+* [Search] (https://github.com/digitalmecode/MozillaLearning-WebLiteracyBadges/blob/master/Badge%20Content%20/Search/Search.json)
 ## Badge Content files
 
 All of the badges within this collection have their own unique badge image, you own organisational or educational logo can be added to the badges themselves, this **must** be added into the bottom righthand corner - see examples of this [here.] (http://www.openbadgeacademy.com/mozillalearning) 
