@@ -1,7 +1,7 @@
 # Summary of the Web Literacy Badges
 
 ## Web Literacy Strands
-* [Search] (https://github.com/digitalmecode/MozillaLearning-WebLiteracyBadges/blob/master/Badge%20Content%20/Search.md)
+* [Search.md] (https://github.com/digitalmecode/MozillaLearning-WebLiteracyBadges/blob/master/Badge%20Content%20/Search/Search.md) [Search.json] (https://github.com/digitalmecode/MozillaLearning-WebLiteracyBadges/blob/master/Badge%20Content%20/Search/Search.json)
 * [Navigate] (https://github.com/digitalmecode/MozillaLearning-WebLiteracyBadges/blob/master/Badge%20Content%20/Navigate.md)
 * [Synthesise] (https://github.com/digitalmecode/MozillaLearning-WebLiteracyBadges/blob/master/Badge%20Content%20/Synthesize.md)
 * [Evaluate] (https://github.com/digitalmecode/MozillaLearning-WebLiteracyBadges/blob/master/Badge%20Content%20/Evaluate.md) 
